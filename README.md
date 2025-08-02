@@ -4,6 +4,7 @@ A responsive Netflix landing page clone built using **HTML, CSS** (with a mobile
 This project replicates the Netflix India homepage with similar layout, sections, and styling.
 
 ---
+View it on https://netflix-static-html-css.vercel.app/
 
 ## 🚀 Features
 - **Responsive Design** – Works on desktop, tablet, and mobile.
@@ -40,7 +41,7 @@ Netflix-Clone/
 ---
 
 ## 🌐 Live Demo
-[🔗 View on GitHub Pages]([https://your-username.github.io/netflix-clone/](https://netflix-static-html-css.vercel.app/))
+https://netflix-static-html-css.vercel.app/
 
 ---
 
