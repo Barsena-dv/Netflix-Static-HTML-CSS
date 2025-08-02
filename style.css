@@ -161,7 +161,7 @@ section.first>div {
     display: flex;
     flex-direction: column;
     padding: 34px 0px;
-    gap: 10px;
+    gap: 23px;
 }
 
 section.first>div :nth-child(1) {
