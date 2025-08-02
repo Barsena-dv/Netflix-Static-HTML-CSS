@@ -40,7 +40,7 @@ Netflix-Clone/
 ---
 
 ## 🌐 Live Demo
-[🔗 View on GitHub Pages](https://your-username.github.io/netflix-clone/)
+[🔗 View on GitHub Pages]([https://your-username.github.io/netflix-clone/](https://netflix-static-html-css.vercel.app/))
 
 ---
 
